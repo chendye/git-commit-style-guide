@@ -39,3 +39,4 @@ const add = (a, b) => {
 
     return ret;
 };
+var a=1;
