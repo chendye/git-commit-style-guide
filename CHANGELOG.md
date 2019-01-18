@@ -2,6 +2,11 @@
 # [0.1.0](https://github.com/chendye/git-commit-style-guide/compare/v1.0.0...v0.1.0) (2019-01-18)
 
 
+### Features
+
+* balabala 小魔仙 ([83aae24](https://github.com/chendye/git-commit-style-guide/commit/83aae24))
+
+
 
 <a name="1.0.0"></a>
 # [1.0.0](https://github.com/chendye/git-commit-style-guide/compare/v0.1.0...v1.0.0) (2018-02-02)
